@@ -9,7 +9,7 @@
 
 ```javascript
 const manu = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, SQL, MongoDB, Java],
   tools: [React, Node, Styled-Components, Express],
   languages: {
