@@ -19,5 +19,5 @@ const manu = {
   hobbies : [Photography, Aviation]
 }
 ```
-<img align="right" width="65%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuelpedreira&theme=transparent">
+<img align="right" width="64%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuelpedreira&theme=transparent">
 <img width="31%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manuelpedreira&theme=transparent&utcOffset=1">
