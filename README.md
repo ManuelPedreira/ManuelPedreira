@@ -1,4 +1,4 @@
-![Hi! I'm Manuel!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&random=false&width=435&height=30&color=4292f7&lines=Hello+World+!;I'm+Manuel+!;Hola+Mundo+!;Soy+Manuel+!)
+![Hi! I'm Manuel!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&random=false&width=435&height=30&color=4292f7&lines=Hello!+I'm+Manuel;Hola!+Soy+Manuel)
 ![Head](https://raw.githubusercontent.com/ManuelPedreira/ManuelPedreira/main/img/night.png#gh-dark-mode-only)
 ![Head](https://raw.githubusercontent.com/ManuelPedreira/ManuelPedreira/main/img/day.png#gh-light-mode-only)
 
