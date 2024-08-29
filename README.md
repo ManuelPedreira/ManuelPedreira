@@ -8,7 +8,7 @@
 ### About me...  
 
 ```javascript
-const manu = {
+const manuel = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, SQL, MongoDB, Java],
   tools: [React, Node, Styled-Components, Express],
