@@ -11,7 +11,7 @@
 const manuel = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, SQL, MongoDB, Java],
-  tools: [React, Node, Styled-Components, Express],
+  tools: [React, Node, Styled-Components, Spring-Boot, Express],
   languages: {
     english : "Advanced",
     spanish : "Native"
