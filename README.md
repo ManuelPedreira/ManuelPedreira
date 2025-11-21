@@ -20,10 +20,9 @@ const manuel = {
 }
 ```
 
-<p><br>
-<strong>Deployed proyects: </strong><br>
-<sub>- ShortURL : <a href="https://shorturl.zeabur.app">shorturl.zeabur.app</a>
-</p>
+
+### Deployed proyects:
+- ShortURL : <a href="https://shorturl.zeabur.app">shorturl.zeabur.app</a>
 
 <img align="right" width="63%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manuelpedreira&theme=transparent">
 <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manuelpedreira&theme=transparent&utcOffset=1">
